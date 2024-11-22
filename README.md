@@ -1,10 +1,7 @@
 # CTI-P4-POO-20242-LISTA02
-Dedicado as atividades de POO do capítulo 4, da lista 2
----
-
-# CTI-P4-POO-20242-LISTA01
 
 ## Atividades de Programação Orientada a Objetos (POO) - Java
+## Dedicado as atividades de POO do capítulo 4 e 5, da lista 2
 
 Este repositório contém as soluções de 25 questões de **Programação Orientada a Objetos (POO)** em Java, desenvolvidas como parte da disciplina do professor **Roger Moura Sarmento**, no **Campus Maranguape**.
 
