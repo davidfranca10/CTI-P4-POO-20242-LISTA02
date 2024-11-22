@@ -38,40 +38,40 @@ Para executar os exercícios, siga os seguintes passos:
 ## Exercícios Resolvidos
 
 ### EXE01 - Média Ponderada e Conceito
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE01/src/br/edu/principal/Principal.java)
 
 ### EXE02 - Média Aritmética e Situação
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)
 
 ### EXE03 - Maior de Dois Números
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)
 
 ### EXE04 - Ordem Crescente
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE04/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE04/src/br/edu/principal/Principal.java)
 
 ### EXE05 - Ordem Decrescente
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE05/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE05/src/br/edu/principal/Principal.java)
 
 ### EXE06 - Par ou Ímpar
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE06/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE06/src/br/edu/principal/Principal.java)
 
 ### EXE07 - Ordenação de Números
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE07/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE07/src/br/edu/principal/Principal.java)
 
 ### EXE08 - Menu de Operações
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE08/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE08/src/br/edu/principal/Principal.java)
 
 ### EXE09 - Data e Hora
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE09/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE09/src/br/edu/principal/Principal.java)
 
 ### EXE10 - Maior Data
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)
 
 ### EXE11 - Duração de Jogo
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE11/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE11/src/br/edu/principal/Principal.java)
 
 ### EXE12 - Cargo e Aumento
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE12/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE12/src/br/edu/principal/Principal.java)
 
 ### EXE13 - Menu de Salário
 [Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE13/src/br/edu/principal/Principal.java)
