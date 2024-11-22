@@ -74,43 +74,43 @@ Para executar os exercícios, siga os seguintes passos:
 [Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE12/src/br/edu/principal/Principal.java)
 
 ### EXE13 - Menu de Salário
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE13/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE13/src/br/edu/principal/Principal.java)
 
 ### EXE14 - Salário com Bonificação
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE14/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE14/src/br/edu/principal/Principal.java)
 
 ### EXE15 - Cálculo de Salário
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE15/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE15/src/br/edu/principal/Principal.java)
 
 ### EXE16 - Ajuste de Preços
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE16/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE16/src/br/edu/principal/Principal.java)
 
 ### EXE17 - Equação do 2º Grau
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE17/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE17/src/br/edu/principal/Principal.java)
 
 ### EXE18 - Tipos de Triângulos
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE18/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE18/src/br/edu/principal/Principal.java)
 
 ### EXE19 - Classificação de Peso e Altura
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE19/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE19/src/br/edu/principal/Principal.java)
 
 ### EXE20 - Cálculo de Impostos
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE20/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE20/src/br/edu/principal/Principal.java)
 
 ### EXE21 - Cálculo de Carga e Imposto
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE21/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE21/src/br/edu/principal/Principal.java)
 
 ### EXE22 - Cálculo de Desconto
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE22/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE22/src/br/edu/principal/Principal.java)
 
 ### EXE23 - Conversão de Temperatura
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE23/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE23/src/br/edu/principal/Principal.java)
 
 ### EXE24 - Cálculo de Fatorial
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE24/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE24/src/br/edu/principal/Principal.java )
 
 ### EXE25 - Sequência de Fibonacci
-[Link para o código](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE25/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/davidfranca10/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE25/src/br/edu/principal/Principal.java)
 
 ---
 
