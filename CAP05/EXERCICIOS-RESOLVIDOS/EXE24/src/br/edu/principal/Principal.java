@@ -1,102 +1,74 @@
 package br.edu.principal;
 
+import java.util.Scanner;
+
 public class Principal {
 
-    public static void main(String[] args) {
-      double pre, valor_adc, imposto;
-      double pre_custo, desconto, novo_pre;
-      
-      final char tipo, refrig;
-     valor_adc = 8;
-      pre = 800;
-      tipo = 'V';
-      refrig = 'S';
-      
-      if(refrig == 'S') {
-    	  if(tipo == 'A') {
-    		  if(pre <  15) {
-    			  valor_adc = 2;
-    		  } else {
-    			  valor_adc = 5;
-    		  }
-    		  
-    		  if(tipo == 'L') {
-    			  if(pre < 10) {
-    				  valor_adc = 1.50;
-    			  } else {
-    				  valor_adc = 2.50;
-    			  }
-    		  }
-    		  
-    		 if(tipo == 'V') {
-    			 if(pre < 30) {
-    				 valor_adc = 3;
-    			 } else {
-    				 valor_adc = 2.5;
-    			 }
-    			 
-    		 }
-    	  }
-    	  
-    	  
-      } else {
-    	  if(tipo == 'A') {
-    		  valor_adc = 8;
-    	  }
-    	  
-    	  if(tipo == 'L') {
-    		  valor_adc = 0;
-    	  }
-    	  
-    	  if(tipo == 'V') {
-    		  valor_adc = 0;
-    	  }
-    	  
-    	  
-    			  
-    	  
-      }
-      
-      System.out.println("Valor Adicional: " + valor_adc);
-      
-      if(pre < 25) {
-    	  imposto = 5/100 * pre;
-      } else {
-    	  imposto = 8/100 * pre;
-      }
-      
-      System.out.println("Imposto: " + imposto);
-      
-      pre_custo = pre + imposto;
-      
-      System.out.println("Preço Custo: " + pre_custo );
-      
-      if(tipo != 'A' && refrig != 'S') {
-    	  desconto = 3/100 * pre_custo;
-    	  
-      } else {
-    	  desconto = 0;
-      }
-      
-      System.out.println("Desconto: " + desconto);
-      
-      novo_pre = pre_custo + valor_adc - desconto;
-      
-      System.out.println("Novo Preço: " + novo_pre);
-      
-     if(novo_pre <= 50) {
-    	 System.out.println("Barato");
-    	 
-     } else if(novo_pre < 100) {
-		 System.out.println("Normal");
-	 } else {
-		 System.out.println("Caro");
-	 }
-    	  
-    	  
-      
-      
-    
-}
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		double op, sal, imp = 0, aum, novo_sal;
+		
+		while (true) {
+			System.out.println("");
+			System.out.println("MENU DE OPÇÕES");
+			System.out.println("1 - Imposto");
+			System.out.println("2 - Novo Salário");
+			System.out.println("3 - Classificação");
+			System.out.println("4 - Finalisar o Programa");
+			System.out.println("Digite a opção desejada:");
+			op = sc.nextDouble();
+			
+			if (op > 4 | op < 1) {
+				System.out.println("Opção inválida");
+			}
+			else if (op == 1) {
+				System.out.println("Digite salário:");
+				sal = sc.nextDouble();
+				if (sal < 500) {
+					imp = sal * 5/100;
+				}
+				else if (sal >= 500 & sal <= 850) {
+					imp = sal * 10/100;
+				}
+				else if (sal > 850) {
+					imp = sal * 15/100;
+				}
+				System.out.println("Valor de imposto $"+imp);
+			}
+			
+			else if (op == 2) {
+				System.out.println("Digite salário:");
+				sal = sc.nextDouble();
+				if (sal < 1500) {
+					aum = 75;
+				}
+				else if (sal >= 750 & sal <= 1500) {
+					aum = 50;
+				}
+				else if (sal >= 450 & sal < 750) {
+					aum = 75;
+				}
+				else {
+					aum = 100;
+				}
+				novo_sal = sal + aum;
+				System.out.println("O novo salário é de $"+novo_sal);
+			}
+			else if(op == 3) {
+				System.out.println("Digite salário:");
+				sal = sc.nextDouble();
+				if (sal <= 700) {
+					System.out.println("Mal Remunerado");
+				}
+				else {
+					System.out.println("bem Remunerado");
+				}
+			}
+			else {
+				return;
+			}
+		}
+		
+	}
 
 }
