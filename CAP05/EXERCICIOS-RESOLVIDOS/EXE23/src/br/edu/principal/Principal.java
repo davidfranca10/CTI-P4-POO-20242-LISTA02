@@ -1,82 +1,47 @@
 package br.edu.principal;
 
+import java.util.Scanner;
+
 public class Principal {
 
-    public static void main(String[] args) {
-        double sal_min, nht, coeficiente, sal_bruto;
-        double imposto = 0, grat, auxilio, sal_liq; 
-        final char turno, categoria;
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		double sal, qtd, tipo, valor_kw, gasto, acresc = 0, total, tot_geral=0, qtd_cons=0;
+		System.out.println("Salário: ");
+		sal = sc.nextDouble();
+		System.out.println("Quantidade de quilo watts gasta (0 para encerrar): ");
+		qtd = sc.nextDouble();
+		valor_kw = sal/8;
+		while (qtd != 0) {
+			gasto = qtd * valor_kw;
+			System.out.println("Tipo de consumidor:");
+			System.out.println("1 - residencial | 2 - Comercial | 3- industrial");
+			tipo = sc.nextDouble();
+			if (tipo  == 1) {
+				acresc = gasto * 5/100;
+			}
+			else if (tipo == 2) {
+				acresc = gasto * 10/100;
+			}
+			else if (tipo == 3) {
+				acresc = gasto * 15/100;
+			}
+			total = gasto + acresc;
+			tot_geral = tot_geral + total;
+			if (total >= 500 & total <=1000) {
+				qtd_cons += 1;
+			}
+			System.out.println("Gasto: "+gasto);
+			System.out.println("Acrescimo: "+acresc);
+			System.out.println("Total: $"+total);
+			System.out.println("");
+			System.out.println("Quantidade de quilo watts gasta (0 para encerrar):");
+			qtd = sc.nextDouble();
+		}
+		System.out.println("");
+		System.out.println("Total geral: $"+tot_geral);
+		System.out.println("Existem "+qtd_cons+" consumidores que pagam entre R$500,00 e R$1.000,00.");
+		
+		}
 
-        coeficiente = 10;
-        sal_min = 1406;
-        turno = 'N';
-        categoria = 'O';
-        nht = 12;
-
-
-        if (turno == 'M') {
-            coeficiente = 10.0 / 100 * sal_min;
-        } else if (turno == 'V') {
-            coeficiente = 15.0 / 100 * sal_min;
-        } else if (turno == 'N') {
-            coeficiente = 12.0 / 100 * sal_min;
-        }
-
-        System.out.println("Coeficiente: " + coeficiente);
-
-        sal_bruto = nht * coeficiente;
-
-        System.out.println("Salário Bruto: " + sal_bruto);
-
-       
-        if (categoria == 'O') {
-            if (sal_bruto >= 300) {
-                imposto = 5.0 / 100 * sal_bruto;
-            } else {
-                imposto = 3.0 / 100 * sal_bruto;
-            }
-        } else { 
-            if (sal_bruto >= 400) {
-                imposto = 6.0 / 100 * sal_bruto;
-            } else {
-            	imposto = 4.0/100 * sal_bruto;
-            }
-        }
-
-        System.out.println("Imposto:" + imposto);
-        
-        if(turno =='N' && nht > 80) {
-        	grat = 50;
-        } else {
-        	grat = 30;
-        }
-        
-        System.out.println("Gratificação:" +grat);
-        
-        if(categoria == 'O' || coeficiente <= 25 ) {
-        	auxilio = 1/2 * sal_bruto;
-        } else {
-        	auxilio = 1/2 * sal_bruto;
-        }
-        
-        System.out.println("Auxílio: " + auxilio);
-        
-        sal_liq = sal_bruto - imposto + grat + auxilio;
-        
-        System.out.println("Salário Líquido:" + sal_liq);
-        
-        if(sal_liq < 350) {
-        	System.out.println("Mal Remunerado");
-        }
-        
-        if(sal_liq >= 350 && sal_liq <= 600) {
-        	System.out.println("Normal");
-        }
-        
-        if(sal_liq > 600) {
-        	System.out.println("Bem Remunerado");
-        }
-    }
 }
-
-
