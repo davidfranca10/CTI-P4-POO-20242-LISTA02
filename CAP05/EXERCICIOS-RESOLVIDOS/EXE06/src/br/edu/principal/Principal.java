@@ -18,7 +18,7 @@ public class Principal {
             turno = sc.next();
             System.out.print("categoria: ");
             categoria = sc.next();
-            while (turno.equalsIgnoreCase("M") & turno.equalsIgnoreCase("v") & turno.equalsIgnoreCase("N")) {
+            while (turno.equalsIgnoreCase("M") & turno.equalsIgnoreCase("V") & turno.equalsIgnoreCase("N")) {
             	System.out.print("turno: ");
                 turno = sc.next();
             }
